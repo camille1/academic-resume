@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br>
+
 Education
 ======
 * Post-Doc Visiting Scholar Consumer Psychology, GitHub University, 2019
