@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 Education
 ======
 * Post-Doc Visiting Scholar Consumer Psychology, GitHub University, 2019
@@ -59,7 +59,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Affiliations
+Academic affiliations
 ======
 * AFM
 * INFORMS
