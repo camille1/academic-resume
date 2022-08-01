@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-[Publications]({site.publications})
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
